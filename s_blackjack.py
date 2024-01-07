@@ -1,3 +1,5 @@
+# Credit: Santeri Heikkinen 
+
 import random
 
 # basic formatting
